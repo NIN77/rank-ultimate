@@ -1,0 +1,5 @@
+{
+  "name": "Farcaster Profile Rank - Ultimate",
+  "description": "A comprehensive Farcaster profile analyzer that calculates a 0-100 rank score, assigns tiers, and provides AI-driven insights using the Gemini API. Features leaderboards, comparison tools, and detailed activity metrics.",
+  "requestFramePermissions": []
+}
